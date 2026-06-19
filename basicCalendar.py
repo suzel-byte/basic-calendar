@@ -10,6 +10,7 @@ FIXED_HOLIDAYS = [
     ("Independence Day", 8, 15),
     ("Gandhi Jayanti", 10, 2),
     ("Christmas", 12, 25),
+    ("Fourth of July", 7, 4),
 ]
 
 FESTIVALS_BY_YEAR = {
