@@ -22,6 +22,7 @@ FESTIVALS_BY_YEAR = {
         ("Ramadan Begins", 2, 17),
         ("Holika Dahan", 3, 3),
         ("AP's Birthday",5,6),
+        ("Devesh Birthday",2,10),
         ("Holi", 3, 4),
         ("Good Friday", 4, 3),
         ("Holi Bhai Dooj", 3, 5),
